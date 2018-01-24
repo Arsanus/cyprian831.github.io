@@ -16,10 +16,15 @@ First off, there are two ways to fix this issue, One is from [ske's github](http
   
   `[
     "ske.wtf:50004:s",
+    
     "84.245.14.110:50002:s",
+    
     "garlium.kenzierocks.me:50002:s",
+    
     "172.93.54.31:50002:s",
+    
     "mhamburger.net:50002:s",
+    
     "electrum.garlicsoup.xyz:50002:s"
   ]
   `
