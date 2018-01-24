@@ -10,7 +10,7 @@ First off, there are two ways to fix this issue, One is from [ske's github](http
   -If youve tried all the servers and its still not working recheck the box and restart the wallet client
   
 2.
-  -Navigate to your garlium system file (`/home/username/.garlicoin/` on linux and `C:\users\username\AppData\Roaming\Garlium for windows)
+  -Navigate to your garlium system file (`/home/username/.garlicoin/` on linux and `C:\users\username\AppData\Roaming\Garlium` for windows)
   -Edit the "recent_servers" with a notepad program
   -Paste this into the file:
   ``` 
