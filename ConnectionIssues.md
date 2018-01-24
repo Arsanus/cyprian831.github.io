@@ -33,3 +33,6 @@ First off, there are two ways to fix this issue, One is from [ske's github](http
 | ske.wtf      | 50004 | @Ske#6201 |
 | 172.93.54.31      | 50002      |  @DBN#1688 |
 | 84.245.14.110 | 50002      |    @Bonobo#8875 |
+| mhamburger.net |	50002	| @mark3748#1645|
+| garlium.kenzierocks.me	| 50002 |	@octylFractal#1861 |
+| electrum.garlicsoup.xyz |	50002 |	@Martin#6614 |
