@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Basic Garlium Troubleshooting
 
 You can use the [editor on GitHub](https://github.com/Cyprian831/cyprian831.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
