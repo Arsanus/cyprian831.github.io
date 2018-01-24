@@ -13,7 +13,8 @@ First off, there are two ways to fix this issue, One is from [ske's github](http
   -Navigate to your garlium system file (`/home/username/.garlicoin/` on linux and `C:\users\username\AppData\Roaming\Garlium for windows)
   -Edit the "recent_servers" with a notepad program
   -Paste this into the file:
-  ``` [
+  ``` 
+  `[
     "ske.wtf:50004:s",
     "84.245.14.110:50002:s",
     "garlium.kenzierocks.me:50002:s",
@@ -21,4 +22,5 @@ First off, there are two ways to fix this issue, One is from [ske's github](http
     "mhamburger.net:50002:s",
     "electrum.garlicsoup.xyz:50002:s"
   ]
+  `
   ```
