@@ -3,8 +3,8 @@ All the copypasta from @arsanus and @cyprian01
 For Garlium connection issues, shutdown Garlium, press `Win+R > %appdata%/Garlium` and edit `recent_servers` with a text editor, and replace what you have with :
  
 ``[
-    "84.245.14.110:50002:s",
-    "172.93.54.31:50002:s"
+    "clovemines.fun:50002:s",
+    "172.93.54.31:50002:s",
     "ske.wtf:50004:s",
     "mhamburger.net:50002:s",
     "garlium.kenzierocks.me:50002:s",
