@@ -28,6 +28,7 @@ Save, and start Garlium.
 
 -If youve tried all the servers and its still not working recheck the box and restart the wallet client
 
+Pools are at the bottom of this page:
 
 ~~~~~~~~~~~~~~~~~ For "Server is Lagging"
  
