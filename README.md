@@ -55,3 +55,24 @@ Select as many as you can with ''Ctrl click''
 Right click and select ''spend''
 Select the amount you desire and send it to an address of your own so that it can be sent more effeciently
 
+
+~~~~~~~~~~~~~~~~~ Stuck on 0 Blocks -cli Wallet
+
+
+Stuck on Block 0? Here's a fix (Full wallet, not Garlium):
+"garlicoind -connect=butterpool.com"
+"garlicoin-cli getblockcount"
+
+Keep checking until you are at the latest block..
+
+"garlicoin-cli stop"
+
+Wait for garlicoind to stop running, it may take a minute.
+
+"garlicoind"
+"garlicoin-cli getconnectioncount"
+
+In a few minutes you should have a few connections.
+You should be good now.
+Love @Buss1000#6034 & @iBłackSunday#5025
+
