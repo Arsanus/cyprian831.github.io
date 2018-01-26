@@ -1,4 +1,4 @@
-All the copypasta from @arsanus and @cyprian01
+```All the copypasta from @arsanus and @cyprian01
 
 For Garlium connection issues, shutdown Garlium, press `Win+R > %appdata%/Garlium` and edit `recent_servers` with a text editor, and replace what you have with :
  
@@ -53,3 +53,4 @@ Move to the coins tab
 Select as many as you can with ''Ctrl click''
 Right click and select ''spend''
 Select the amount you desire and send it to an address of your own so that it can be sent more effeciently
+```
